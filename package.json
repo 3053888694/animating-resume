@@ -12,7 +12,7 @@
     "marked": "^0.5.1",
     "npm": "^6.4.1",
     "prismjs": "^1.6.0",
-    "vue": "^2.1.10"
+    "vue": "^2.5.17"
   },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
